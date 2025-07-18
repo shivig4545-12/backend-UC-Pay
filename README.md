@@ -1,6 +1,6 @@
 # UC-Pay
 
-UC-Pay is a project maintained in this repository. This README provides an overview of the project, setup instructions, usage guidelines, and contribution information.
+UC-Pay is a project maintained in this repository. This README provides an overview of the project, setup instructions, usage guidelines, and contribution informations.
 
 ## Project Overview
 
